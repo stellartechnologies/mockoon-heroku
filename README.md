@@ -31,3 +31,7 @@ this project is using docker and you can easily upload heroku and access your mo
 3. Run `docker build -t my-mockoon .`
 4. Run `docker run -d -p 3000:3000 my-mockoon`
 5. You can access your mocked API at [http://localhost:3000/users](http://localhost:3000/users)
+
+### Todo
+
+- [ ] Pass filename by parameter when running docker
